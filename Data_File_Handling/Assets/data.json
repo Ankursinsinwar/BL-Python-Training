@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Ankur",
+        "age": 22,
+        "city": "Mathura",
+        "education": {
+            "degree": "B.Tech",
+            "major": "Computer Science",
+            "university": "GLA University"
+        }
+    },
+    {
+        "name": "Ankur",
+        "age": 22,
+        "city": "Mathura",
+        "education": {
+            "degree": "B.Tech",
+            "major": "Computer Science",
+            "university": "GLA University"
+        }
+    },
+    {
+        "name": "Ankur",
+        "age": 22,
+        "city": "Mathura",
+        "education": {
+            "degree": "B.Tech",
+            "major": "Computer Science",
+            "university": "GLA University"
+        }
+    }
+]
