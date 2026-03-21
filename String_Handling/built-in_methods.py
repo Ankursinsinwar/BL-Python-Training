@@ -30,3 +30,16 @@ print("Ankur".islower())
 
 print("ankur".islower())
 
+print("Ankur Sinsinwar".count('n'))
+
+print('10'.isdigit())
+
+print('a'.isdigit())
+
+print('10'.isalpha())
+
+print('a'.isalpha())
+
+print("Ankur Sinsinwar"[:5])
+
+print("Ankur Sinsinwar"[6:])
